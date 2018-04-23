@@ -1,0 +1,2 @@
+Bei Zadig Treiber für ACR122U PICC Interface umstellen auf libusbK. 
+Danach USB-Stecker rausziehen/reinstecken.
