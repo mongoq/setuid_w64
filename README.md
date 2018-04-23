@@ -12,11 +12,11 @@ Doku - Zusammenkopieren von folgendem:
 * Todo: libnfc.dll (woher?)
 * Todo: libusb0.dll (woher?)
 
-Bei Zadig:
+Zadig:
 * Treiber für ACR122U PICC Interface umstellen auf libusbK (zwingend erfordelich!). 
 * Danach USB-Stecker des ACR122U rausziehen / reinstecken.
 
-Beispielnutzung (Dateien in /temp):
+Beispieleinsatz (Dateien in /temp):
 
 ![Alt text](https://github.com/mongoq/wsetuid/blob/master/temp/example_use.png?raw=true "Usage")
  
