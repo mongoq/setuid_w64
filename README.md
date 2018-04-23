@@ -1,7 +1,7 @@
 # w64_setuid
 Setzen von Mifare-Karten UIDs mit NFC-Interface ACR122U unter Windows
 
-**Auf der Kommandozeile sind die .exe Dateien in /temp *ohne GUI* schon einsetzbar (!)**
+**Auf der Kommandozeile sind die .exe Dateien in /temp (*ohne GUI*) schon einsetzbar (!)**
 
 GUI-Frontend mit Python / GTK (Todo - hier läuft noch nichts (!)):
 * GTK / NSIS / Zadig Treiberauswahl !!?
