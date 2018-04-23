@@ -1,5 +1,5 @@
 # w64_setuid
-Setzen von Mifare-Karten UIDs mit NFC-Interface ACR122U unter Windows
+Setzen von Mifare-Karten UIDs (4 Bytes) mit NFC-Interface ACR122U unter Windows
 
 **Auf der Kommandozeile sind die .exe Dateien in /temp (*ohne GUI*) schon einsetzbar (!)**
 
@@ -17,7 +17,7 @@ Zadig:
 * Danach USB-Stecker des ACR122U rausziehen / reinstecken.
 
 Beispieleinsatz (Dateien in /temp): 
-* Ändern von UID '**ab cd ef ef**' auf '**21 22 23 24**'
+* Ändern von UID '**ab cd ef ef**' auf '**21 22 23 24**' (nur diese 4 Bytes werden meist ausgewertet)
 
 ![Alt text](https://github.com/mongoq/wsetuid/blob/master/temp/example_use.png?raw=true "Usage")
  
