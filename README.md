@@ -16,7 +16,8 @@ Zadig:
 * Treiber für ACR122U PICC Interface umstellen auf libusbK (zwingend erfordelich!). 
 * Danach USB-Stecker des ACR122U rausziehen / reinstecken.
 
-Beispieleinsatz (Dateien in /temp): Ändern von UID '**ab cd ef ef**' auf '**21 22 23 24**'
+Beispieleinsatz (Dateien in /temp): 
+* Ändern von UID '**ab cd ef ef**' auf '**21 22 23 24**'
 
 ![Alt text](https://github.com/mongoq/wsetuid/blob/master/temp/example_use.png?raw=true "Usage")
  
