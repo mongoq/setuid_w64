@@ -1,4 +1,4 @@
-# w32_setuid
+# w64_setuid
 Setzen von Mifare-Karten UIDs mit NFC-Interface ACR122U unter Windows
 
 **Auf der Kommandozeile sind die Programme in /temp ohne GUI bereits einsetzbar (!)**
