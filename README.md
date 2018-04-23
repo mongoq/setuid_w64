@@ -9,4 +9,4 @@ Anleitung: Zusammenkopieren von folgendem:
 * https://github.com/peacepenguin/libnfc-unofficialbuilds - nfc-list.exe und nfc-mfsetuid.exe
 
 * Todo: libnfc.dll (woher?)
-* Todo: libusb0.dll
+* Todo: libusb0.dll (woher?)
