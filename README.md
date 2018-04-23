@@ -13,7 +13,7 @@ Doku - Zusammenkopieren von folgendem:
 * Todo: libusb0.dll (woher?)
 
 Bei Zadig:
-* Treiber für ACR122U PICC Interface umstellen auf libusbK. 
+* Treiber für ACR122U PICC Interface umstellen auf libusbK (zwingend erfordelich!). 
 * Danach USB-Stecker des ACR122U rausziehen / reinstecken.
 
 Beispielnutzung (Dateien in /temp):
