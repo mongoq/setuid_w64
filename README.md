@@ -14,7 +14,7 @@ Doku - Zusammenkopieren von folgendem:
 
 Bei Zadig:
 * Treiber für ACR122U PICC Interface umstellen auf libusbK. 
-* Danach USB-Stecker rausziehen/reinstecken.
+* Danach USB-Stecker des ACR122U rausziehen / reinstecken.
 
 Beispielnutzung (Dateien in /temp):
 
