@@ -19,3 +19,5 @@ Bei Zadig:
 Beispielnutzung (Dateien in /temp):
 
 ![Alt text](https://github.com/mongoq/wsetuid/blob/master/temp/example_use.png?raw=true "Usage")
+ 
+ Lizenzen: ?!?!
