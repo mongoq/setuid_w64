@@ -1,5 +1,5 @@
 # wsetuid
-Set Mifare UID (Windows)
+Setzen von Mifare UID (Windows) mit NFC-Interface ACR122U
 
 Frontend mit Python / GTK (Todo - hier läuft noch nichts(!))
 * GTK / NSIS / Zadig Treiberauswahl !!?
