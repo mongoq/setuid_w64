@@ -6,7 +6,7 @@ Setzen von Mifare-Karten UIDs mit NFC-Interface ACR122U unter Windows
 GUI-Frontend mit Python / GTK (Todo - hier läuft noch nichts (!)):
 * GTK / NSIS / Zadig Treiberauswahl !!?
 
-Doku für Nochmaliges Zusammenkopieren von folgendem:
+Doku für Nochmaliges Zusammenkopieren von folgendem zusammenstellen:
 * https://zadig.akeo.ie/
 * https://github.com/peacepenguin/libnfc-unofficialbuilds - nfc-list.exe und nfc-mfsetuid.exe
 * Todo: libnfc.dll (woher?)
