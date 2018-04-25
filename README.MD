@@ -5,7 +5,7 @@ Zusammengestellt von / für http://nfc-tools.org
 
 **Auf der Kommandozeile sind die .exe Dateien in /temp (*ohne GUI*) bereits einsetzbar**
 
-GUI-Frontend mit Python / GTK (Todo - hier läuft noch nichts (!)):
+Todo: GUI-Frontend mit Python / GTK (bisher nur Materialsammlung (!)):
 * Python GUI mit GTK / Nullsoft Installer / Zadig automatische Treiberauswahl !!?
 
 Doku für Nochmaliges Zusammenkopieren von folgendem zusammenstellen:
