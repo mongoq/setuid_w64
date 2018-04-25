@@ -13,7 +13,7 @@ Doku für Nochmaliges Zusammenkopieren von folgendem zusammenstellen:
 * https://github.com/peacepenguin/libnfc-unofficialbuilds (nfc-list.exe und nfc-mfsetuid.exe)
 * Todo: libnfc.dll (woher?)
 * Todo: libusb0.dll (woher?)
-* Todo: Windows 10 Test (?)
+* Todo: Windows 10 Test
 
 Zadig (Treiberauswahl):
 * Treiber für ACR122U PICC Interface umstellen auf libusbK (evtl. nach jedem Windows-Neustart erforderlich!)
