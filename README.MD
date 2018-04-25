@@ -3,7 +3,7 @@ Setzen von Mifare-Karten UIDs (4 Bytes) mit NFC-Interface **ACR122U** unter Wind
 
 Zusammengestellt von / für http://nfc-tools.org
 
-**Auf der Kommandozeile sind die .exe Dateien in /temp (*ohne GUI*) ohne weiteres einsetzbar (!)**
+**Auf der Kommandozeile sind die .exe Dateien in /temp (*ohne GUI*) bereits einsetzbar (!)**
 
 GUI-Frontend mit Python / GTK (Todo - hier läuft noch nichts (!)):
 * Python GUI mit GTK / Nullsoft Installer / Zadig automatische Treiberauswahl !!?
