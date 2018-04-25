@@ -8,7 +8,7 @@ Zusammengestellt von / für http://nfc-tools.org
 Todo: GUI-Frontend mit Python / GTK (bisher nur Materialsammlung (!)):
 * Python GUI mit GTK / Nullsoft Installer / Zadig automatische Treiberauswahl !!?
 
-Doku für Nochmaliges Zusammenkopieren von folgendem zusammenstellen:
+Doku durch nochmaliges Zusammenkopieren von Folgendem zusammenstellen:
 * https://zadig.akeo.ie/ (Treiberauswahl)
 * https://github.com/peacepenguin/libnfc-unofficialbuilds (nfc-list.exe und nfc-mfsetuid.exe)
 * Todo: libnfc.dll (woher?)
