@@ -1,5 +1,5 @@
 # setuid_w64
-Setzen von Mifare-Karten UIDs (4 Bytes) mit NFC-Interface ACR122U unter Windows 7
+Setzen von Mifare-Karten UIDs (4 Bytes) mit NFC-Interface **ACR122U** unter Windows 7
 
 Zusammengestellt von / für http://nfc-tools.org
 
