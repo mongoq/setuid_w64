@@ -12,7 +12,7 @@ Doku für Nochmaliges Zusammenkopieren von folgendem zusammenstellen:
 * Todo: libnfc.dll (woher?)
 * Todo: libusb0.dll (woher?)
 
-Zadig:
+Zadig (Treiberauswahl):
 * Treiber für ACR122U PICC Interface umstellen auf libusbK (zwingend erfordelich!). 
 * Danach USB-Stecker des ACR122U herausziehen / hineinstecken.
 
