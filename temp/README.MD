@@ -1,3 +1,3 @@
 # Temporäre Lösung
 
-Virenscan und noch mal Zusammenkopieren !!!
+**Virenscan und / oder noch mal Zusammenkopieren !!!**
