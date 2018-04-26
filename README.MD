@@ -23,7 +23,7 @@ Zadig (Treiberauswahl):
 * Danach USB-Stecker des ACR122U herausziehen / hineinstecken
 
 Beispieleinsatz (Dateien in /temp): 
-* Ändern von UID **"ab cd ef ef"** auf **"21 22 23 24"** (nur diese 4 Bytes werden meist ausgewertet)
+* Ändern von UID **"ab cd ef ef"** auf **"21 22 23 24"** (reicht für Zugangskontrollsysteme aus)
 
 ![Alt text](https://github.com/mongoq/wsetuid/blob/master/temp/example_use.png?raw=true "Usage")
  
