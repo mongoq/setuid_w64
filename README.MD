@@ -3,7 +3,7 @@ Setzen von Mifare-Karten UIDs (4 Bytes) mit NFC-Interface **ACR122U** unter Wind
 
 ![ACR122U](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ3LIqSONXUmsjX91ytZOBTPmT7ahA_39kds4XQ4eEChJEk7yGCA)
 
-Zusammengestellt von / für http://nfc-tools.org
+Zusammengestellt von http://nfc-tools.org
 
 **--> Auf der Kommandozeile sind die .exe Dateien in /temp (ohne GUI) bereits einsetzbar! <--**
 
