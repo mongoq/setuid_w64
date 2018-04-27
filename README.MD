@@ -10,6 +10,8 @@ Zusammengestellt von http://nfc-tools.org
 Todo: GUI-Frontend mit Python / GTK (bisher nur Materialsammlung (!)):
 * Python GUI mit GTK / Nullsoft Installer / Zadig automatische Treiberauswahl !!?
 * http://www.yolinux.com/TUTORIALS/PyGTK.html (unter Windows?)
+* https://m.youtube.com/watch?v=MxYl3cnn4yw
+* https://stackoverflow.com/questions/25381761/creating-an-installer-for-a-python-gtk3-application
 
 Doku durch nochmaliges Zusammenkopieren von Folgendem zusammenstellen:
 * https://zadig.akeo.ie/ (Treiberauswahl)
