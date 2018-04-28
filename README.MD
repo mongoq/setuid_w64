@@ -13,6 +13,7 @@ Todo: GUI-Frontend mit Python / GTK (bisher nur Materialsammlung (!)):
 * https://m.youtube.com/watch?v=MxYl3cnn4yw
 * https://stackoverflow.com/questions/25381761/creating-an-installer-for-a-python-gtk3-application
 * https://stackoverflow.com/questions/23272184/how-do-you-search-subprocess-output-in-python-for-a-specific-word
+* https://stackoverflow.com/questions/6780035/how-to-run-ps-cax-grep-something-in-python
 
 Doku durch nochmaliges Zusammenkopieren von Folgendem zusammenstellen:
 * https://zadig.akeo.ie/ (Treiberauswahl)
