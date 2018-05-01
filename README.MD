@@ -14,6 +14,9 @@ Todo: GUI-Frontend mit Python / GTK (bisher nur Materialsammlung (!)):
 * https://stackoverflow.com/questions/25381761/creating-an-installer-for-a-python-gtk3-application
 * https://stackoverflow.com/questions/23272184/how-do-you-search-subprocess-output-in-python-for-a-specific-word
 * https://stackoverflow.com/questions/6780035/how-to-run-ps-cax-grep-something-in-python
+* https://ubuntuforums.org/showthread.php?t=2074290
+* http://python-gtk-3-tutorial.readthedocs.io/en/latest/index.html
+* http://www.linux-magazin.de/ausgaben/2011/11/gtk/
 
 Doku durch nochmaliges Zusammenkopieren von Folgendem zusammenstellen:
 * https://zadig.akeo.ie/ (Treiberauswahl)
