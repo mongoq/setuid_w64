@@ -1,4 +1,5 @@
-# setuid_w64
+# Mifare Card UID (Windows)
+
 Lesen und Setzen von Mifare-Karten UIDs (4 Bytes) mit **USB-NFC-Interface ACR122U** unter Windows 7
 
 Zusammengestellt von http://nfc-tools.org
