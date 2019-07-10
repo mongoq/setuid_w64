@@ -19,6 +19,9 @@ Todo: GUI-Frontend mit Python / GTK (bisher nur Materialsammlung (!)):
 * http://python-gtk-3-tutorial.readthedocs.io/en/latest/index.html
 * http://www.linux-magazin.de/ausgaben/2011/11/gtk/
 
+* PyGTK Installation Windows 7: https://im-coder.com/python-pygtk-windows-7-64-bit.html
+* Packaging mit py2exe: TODO
+
 Doku durch nochmaliges Zusammenkopieren von Folgendem zusammenstellen:
 * https://zadig.akeo.ie/ (Treiberauswahl)
 * https://github.com/peacepenguin/libnfc-unofficialbuilds (nfc-list.exe und nfc-mfsetuid.exe)
